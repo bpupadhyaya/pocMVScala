@@ -14,7 +14,7 @@ import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 
 /**
- * Test repo
+ * Test repo test
  */
 @Theme("mytheme")
 @Widgetset("com.equalinformation.MyAppWidgetset")
